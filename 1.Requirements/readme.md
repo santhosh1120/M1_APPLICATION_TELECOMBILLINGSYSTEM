@@ -1,7 +1,7 @@
 # Requirements
 
 # Introduction
-In this project, a version of telecom billing system is developed using c which will maintain records and maintain the data of the users
+In this project, a version of telecom billing system is developed using c which will maintain records and maintain the data of the users.
 
 # Objective
 The main objective of the project is to perform and manage billing operation and can add records with name ,phone number, and amount of payment. 
@@ -9,27 +9,27 @@ The main objective of the project is to perform and manage billing operation and
 # Features
 This project supports the following types of telecom managing system:
 
-1.Add new records: add new data into file with name, phone number and amount to be paid
+1.Add new records: add new data into file with name, phone number and amount to be paid.
 
-2.View list of records – lists all telephone billing records
+2.View list of records – lists all telephone billing records.
 
-3.Modify records – edit the added records; name, phone number and/or amount of payment can be edited
+3.Modify records – edit the added records; name, phone number and/or amount of payment can be edited.
 
-4.View payment – shows amount to be paid
+4.View payment – shows amount to be paid.
 
-5.Search records – search for added/updated records in file
+5.Search records – search for added/updated records in file.
 
-6.Delete records – removes data permanently from file
+6.Delete records – removes data permanently from file.
 
 # 4W's and 1 H's
 ## Why:
-1. To maintain records of the customer
-2. I’m making this to do all make payment for the customer  
+1. To maintain records of the customer.
+2. I’m making this to do all make payment for the customer .
 3. It can be used by anyone at any place.
 
 ## Where:
 1. This can be used in telephone exchange offices. 
-2. We can use it in the telephone billing offices
+2. We can use it in the telephone billing offices.
 
 ## Who:
 1. It can be used by employers in telephone office .
