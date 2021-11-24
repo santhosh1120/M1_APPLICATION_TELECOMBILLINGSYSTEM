@@ -1,4 +1,4 @@
-PROJ_NAME = telecom_billing
+PROJ_NAME = TELECOMBILLINGSYSTEM
 SRC = telecom_billing.c
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
