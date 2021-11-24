@@ -1,5 +1,5 @@
-PROJ_NAME = TELECOM_BILLING_SYSTEM
-SRC = telecom billing system.c telecom billing system.c
+PROJ_NAME = telecom_billing
+SRC = telecom_billing.c
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
 ifdef OS
@@ -15,10 +15,10 @@ else
 endif
 
 build:
-	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcc $(SRC) -o $(call FixPath,$(telecom_billing).$(EXEC)) -lm
 
 run: build
-	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+	./$(call FixPath,$(telecom_billing).$(EXEC))
 
 clean:
-	$(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
+	$(RM) $(call FixPath,$(telecom_billing).$(EXEC))
