@@ -1,1 +1,9 @@
+STRUCTURAL DIAGRAM
+
+![STRUCTURAL DIAGRAM](https://user-images.githubusercontent.com/94516294/143387142-56407a61-9a39-4294-a091-487157486b2c.png)
+
+BEHAVIOUAL DIAGRAM
+
+![BEHAVIOURAL DIAGRAM](https://user-images.githubusercontent.com/94516294/143387221-760f599a-befe-430e-9384-6c94fcfd5886.png)
+
 
