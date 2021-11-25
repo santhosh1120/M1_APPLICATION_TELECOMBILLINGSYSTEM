@@ -74,12 +74,24 @@ This project supports the following types of telecom managing system:
 | LLR_2 |  Input from the user  | Implemented  |
 | LLR_3 |  Exit the program  | Implemented  |
 
-BEHAVIOURAL DIAGRAM
+# BEHAVIOURAL DIAGRAM
 
 ![BEHAVIOURAL DIAGRAM](https://user-images.githubusercontent.com/94516294/143391293-db58b385-57f5-434b-bcc7-b4b5d053a899.png)
 
-STRUCTURAL DIAGRAM
+# STRUCTURAL DIAGRAM
 
 ![STRUCTURAL DIAGRAM](https://user-images.githubusercontent.com/94516294/143391327-84656bc5-4fe1-4527-8ddb-601c82268656.png)
 
+# OUTPUT
 
+![WhatsApp Image 2021-11-24 at 18 10 41](https://user-images.githubusercontent.com/94516294/143391514-22da35bc-9198-431d-9f5d-b67900ebff11.jpeg)
+
+![WhatsApp Image 2021-11-24 at 18 04 14](https://user-images.githubusercontent.com/94516294/143391634-6579fdc5-db1b-42c9-bcb0-e8bbeccf6bbe.jpeg)
+
+![WhatsApp Image 2021-11-24 at 18 05 26](https://user-images.githubusercontent.com/94516294/143391656-473f117d-17ac-4972-a583-2d8a65b0f6b3.jpeg)
+
+![WhatsApp Image 2021-11-24 at 18 07 15](https://user-images.githubusercontent.com/94516294/143391687-8a604031-bf14-4878-b839-1e097c23502c.jpeg)
+
+![WhatsApp Image 2021-11-24 at 18 07 45](https://user-images.githubusercontent.com/94516294/143391698-7279f42a-0538-4202-99f1-96f64e875b0a.jpeg)
+
+![WhatsApp Image 2021-11-24 at 18 08 44](https://user-images.githubusercontent.com/94516294/143391719-79438ee3-cd66-431b-8577-b6552b32f2ae.jpeg)
