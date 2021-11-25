@@ -74,3 +74,12 @@ This project supports the following types of telecom managing system:
 | LLR_2 |  Input from the user  | Implemented  |
 | LLR_3 |  Exit the program  | Implemented  |
 
+BEHAVIOURAL DIAGRAM
+
+![BEHAVIOURAL DIAGRAM](https://user-images.githubusercontent.com/94516294/143391293-db58b385-57f5-434b-bcc7-b4b5d053a899.png)
+
+STRUCTURAL DIAGRAM
+
+![STRUCTURAL DIAGRAM](https://user-images.githubusercontent.com/94516294/143391327-84656bc5-4fe1-4527-8ddb-601c82268656.png)
+
+
